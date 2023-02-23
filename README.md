@@ -63,17 +63,17 @@ After you set ssl on settings
 
 # pic
 
-![1](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/1.png)
-![2](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/2.png)
-![3](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/3.png)
-![4](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/4.png)
+![1](https://raw.githubusercontent.com/mHSanaei/3x-ui/main/media/1.png)
+![2](https://raw.githubusercontent.com/mHSanaei/3x-ui/main/media/2.png)
+![3](https://raw.githubusercontent.com/mHSanaei/3x-ui/main/media/3.png)
+![4](https://raw.githubusercontent.com/mHSanaei/3x-ui/main/media/4.png)
 
 # a special thanks to
 - [vaxilu](https://github.com/vaxilu/)
 - [HexaSoftwareTech](https://github.com/HexaSoftwareTech/)
 - [diditra](https://github.com/diditra/)
 - [FranzKafkaYu](https://github.com/FranzKafkaYu)
-- [alireza0](https://github.com/alireza0/)
+
 
 
 ## Stargazers over time
