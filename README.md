@@ -1,8 +1,8 @@
 # 3x-ui
-![](https://img.shields.io/github/v/release/mhsanaei/3x-ui.svg)
-![](https://img.shields.io/github/actions/workflow/status/mhsanaei/3x-ui/release.yml.svg)
-[![GO Version](https://img.shields.io/github/go-mod/go-version/mhsanaei/3x-ui.svg)](https://img.shields.io/github/go-mod/go-version/mhsanaei/3x-ui)
-[![Downloads](https://img.shields.io/github/downloads/mhsanaei/3x-ui/total.svg)](https://img.shields.io/github/downloads/mhsanaei/3x-ui/total)
+![](https://img.shields.io/github/v/release/Bagheri1401/3x-ui.svg)
+![](https://img.shields.io/github/actions/workflow/status/Bagheri1401/3x-ui/release.yml.svg)
+[![GO Version](https://img.shields.io/github/go-mod/go-version/Bagheri1401/3x-ui.svg)](https://img.shields.io/github/go-mod/go-version/Bagheri1401/3x-ui)
+[![Downloads](https://img.shields.io/github/downloads/Bagheri1401/3x-ui/total.svg)](https://img.shields.io/github/downloads/Bagheri1401/3x-ui/total)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 > **Disclaimer: This project is only for personal learning and communication, please do not use it for illegal purposes, please do not use it in a production environment**
@@ -12,7 +12,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Bagheri1401/3x-ui/master/install.sh)
 ```
 
 # SSL
@@ -63,10 +63,10 @@ After you set ssl on settings
 
 # pic
 
-![1](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/1.png)
-![2](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/2.png)
-![3](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/3.png)
-![4](https://raw.githubusercontent.com/MHSanaei/3x-ui/main/media/4.png)
+![1](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/1.png)
+![2](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/2.png)
+![3](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/3.png)
+![4](https://raw.githubusercontent.com/Bagheri1401/3x-ui/main/media/4.png)
 
 # a special thanks to
 - [vaxilu](https://github.com/vaxilu/)
@@ -78,4 +78,4 @@ After you set ssl on settings
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/MHSanaei/3x-ui.svg)](https://starchart.cc/MHSanaei/3x-ui)
+[![Stargazers over time](https://starchart.cc/MHSanaei/3x-ui.svg)](https://starchart.cc/Bagheri1401/3x-ui)
