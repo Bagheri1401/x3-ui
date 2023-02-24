@@ -78,4 +78,4 @@ After you set ssl on settings
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/MHSanaei/3x-ui.svg)](https://starchart.cc/Bagheri1401/3x-ui)
+[![Stargazers over time](https://starchart.cc/Bagheri1401/3x-ui.svg)](https://starchart.cc/Bagheri1401/3x-ui)
